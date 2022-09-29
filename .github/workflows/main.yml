@@ -20,5 +20,5 @@ jobs:
         localDir: './'
         exclude: '.git,.github,.gitignore'
         port: 22
-        dryRun: true
+        dryRun: false
         forceUpload: false
