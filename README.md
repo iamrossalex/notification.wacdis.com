@@ -1,3 +1,3 @@
-# notification.wacdis.com
+# Standalong notification service
 
-This is a new repository, created not so long time ago.
+Sends notifications with Mail, Whatsapp and Telegram (bot)
