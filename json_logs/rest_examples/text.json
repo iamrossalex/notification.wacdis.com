@@ -1,0 +1,23 @@
+{
+    "update_id": 168218598,
+    "message": {
+        "message_id": 93,
+        "from": {
+            "id": 133621046,
+            "is_bot": false,
+            "first_name": "Ross",
+            "last_name": "Alex",
+            "username": "iamrossalex",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 133621046,
+            "first_name": "Ross",
+            "last_name": "Alex",
+            "username": "iamrossalex",
+            "type": "private"
+        },
+        "date": 1618610104,
+        "text": "Text"
+    }
+}

@@ -1,0 +1,24 @@
+name: SFTP Deploy
+on: push
+jobs:
+  sftp-deploy:
+    if: ${{ false }} # comment to start usage
+    name: SFTP Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: Get latest files
+      uses: actions/checkout@master
+    - name: Upload
+      uses: wangyucode/sftp-upload-action@v1.4.5
+      with:
+        host: ${{ secrets.SFTP_HOST }}
+        username: ${{ secrets.SFTP_USER }}
+        password: ${{ secrets.SFTP_PASS }}
+        # privateKey: ''
+        # passphrase: '',
+        remoteDir: ${{ secrets.SFTP_PATH }}
+        localDir: './'
+        exclude: '.git,.github,.gitignore'
+        port: 22
+        dryRun: true
+        forceUpload: false

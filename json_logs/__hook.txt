@@ -1,0 +1,58 @@
+{"update_id":598956730,
+"message":{"message_id":10003,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660980770,"text":"Select source"}}
+{"update_id":598956731,
+"message":{"message_id":10005,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660980774,"text":"Back"}}
+{"update_id":598956732,
+"message":{"message_id":10007,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660980871,"text":"Select source"}}
+{"update_id":598956733,
+"message":{"message_id":10009,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981043,"text":"Back"}}
+{"update_id":598956734,
+"message":{"message_id":10011,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981354,"text":"Select source"}}
+{"update_id":598956735,
+"message":{"message_id":10013,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981356,"text":"Back"}}
+{"update_id":598956736,
+"message":{"message_id":10016,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981450,"text":"Connect"}}
+{"update_id":598956737,
+"message":{"message_id":10018,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981451,"text":"Back"}}
+{"update_id":598956738,
+"message":{"message_id":10020,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981453,"text":"Select source"}}
+{"update_id":598956739,
+"message":{"message_id":10022,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981457,"text":"Back"}}
+{"update_id":598956740,
+"message":{"message_id":10024,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981528,"text":"Select source"}}
+{"update_id":598956741,
+"message":{"message_id":10026,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981529,"text":"Back"}}
+{"update_id":598956742,
+"message":{"message_id":10028,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981567,"text":"Select source"}}
+{"update_id":598956743,
+"message":{"message_id":10030,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981588,"text":"Back"}}
+{"update_id":598956744,
+"message":{"message_id":10033,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981997,"text":"Select source"}}
+{"update_id":598956745,
+"message":{"message_id":10035,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660981998,"text":"Back"}}
+{"update_id":598956746,
+"message":{"message_id":10037,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660982057,"text":"Show API Reference"}}
+{"update_id":598956747,
+"message":{"message_id":10039,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660982121,"text":"Show API Reference"}}
+{"update_id":598956748,
+"message":{"message_id":10041,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1660982158,"text":"Show API Reference"}}
+{"update_id":598956749,
+"message":{"message_id":10374,"from":{"id":320788081,"is_bot":false,"first_name":"Timur","username":"Timurservidor","language_code":"ru"},"chat":{"id":-589509920,"title":"\u041f\u043e\u043f\u043e\u043b\u043d\u044f\u0448\u043a\u0438","type":"group","all_members_are_administrators":true},"date":1661461639,"reply_to_message":{"message_id":9956,"from":{"id":1761944399,"is_bot":true,"first_name":"Notification Bot","username":"NotifiqatorBot"},"chat":{"id":-589509920,"title":"\u041f\u043e\u043f\u043e\u043b\u043d\u044f\u0448\u043a\u0438","type":"group","all_members_are_administrators":true},"date":1660885847,"text":"Source \u0433\u043e\u0442\u043e\u0432\u043e selected! Waiting for command"},"text":"Statictics"}}
+{"update_id":598956750,
+"message":{"message_id":10579,"from":{"id":320788081,"is_bot":false,"first_name":"Timur","username":"Timurservidor","language_code":"ru"},"chat":{"id":-589509920,"title":"\u041f\u043e\u043f\u043e\u043b\u043d\u044f\u0448\u043a\u0438","type":"group","all_members_are_administrators":true},"date":1661799605,"reply_to_message":{"message_id":9956,"from":{"id":1761944399,"is_bot":true,"first_name":"Notification Bot","username":"NotifiqatorBot"},"chat":{"id":-589509920,"title":"\u041f\u043e\u043f\u043e\u043b\u043d\u044f\u0448\u043a\u0438","type":"group","all_members_are_administrators":true},"date":1660885847,"text":"Source \u0433\u043e\u0442\u043e\u0432\u043e selected! Waiting for command"},"text":"Statictics"}}
+{"update_id":598956751,
+"message":{"message_id":10741,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1662015858,"text":"Connect"}}
+{"update_id":598956752,
+"message":{"message_id":10743,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1662015868,"text":"Back"}}
+{"update_id":598956753,
+"message":{"message_id":10745,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1662015873,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+{"update_id":598956754,
+"message":{"message_id":10747,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1662015888,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+{"update_id":598956755,
+"message":{"message_id":10749,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1662015893,"text":"Show HELP"}}
+{"update_id":598956756,
+"message":{"message_id":10751,"from":{"id":133621046,"is_bot":false,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","language_code":"en"},"chat":{"id":133621046,"first_name":"Ross","last_name":"Alex","username":"iamrossalex","type":"private"},"date":1662015900,"text":"Show API Reference"}}
+{"update_id":598956757,
+"message":{"message_id":11033,"from":{"id":320788081,"is_bot":false,"first_name":"Timur","username":"Timurservidor","language_code":"ru"},"chat":{"id":-589509920,"title":"\u041f\u043e\u043f\u043e\u043b\u043d\u044f\u0448\u043a\u0438","type":"group","all_members_are_administrators":true},"date":1662404251,"reply_to_message":{"message_id":9956,"from":{"id":1761944399,"is_bot":true,"first_name":"Notification Bot","username":"NotifiqatorBot"},"chat":{"id":-589509920,"title":"\u041f\u043e\u043f\u043e\u043b\u043d\u044f\u0448\u043a\u0438","type":"group","all_members_are_administrators":true},"date":1660885847,"text":"Source \u0433\u043e\u0442\u043e\u0432\u043e selected! Waiting for command"},"text":"Statictics"}}
+{"update_id":598956758,
+"message":{"message_id":12175,"from":{"id":320788081,"is_bot":false,"first_name":"Timur","username":"Timurservidor","language_code":"ru"},"chat":{"id":-589509920,"title":"\u041f\u043e\u043f\u043e\u043b\u043d\u044f\u0448\u043a\u0438","type":"group","all_members_are_administrators":true},"date":1664114265,"reply_to_message":{"message_id":9956,"from":{"id":1761944399,"is_bot":true,"first_name":"Notification Bot","username":"NotifiqatorBot"},"chat":{"id":-589509920,"title":"\u041f\u043e\u043f\u043e\u043b\u043d\u044f\u0448\u043a\u0438","type":"group","all_members_are_administrators":true},"date":1660885847,"text":"Source \u0433\u043e\u0442\u043e\u0432\u043e selected! Waiting for command"},"text":"Back"}}
