@@ -10,9 +10,9 @@
 	require("classes/functions.php");
 	require("classes/wa.telegram.php");
 	use WA\Bots;
-	$tg = new WA\Bots\Telegram("1761944399:AAEfjBJtOezl18I9tHs6FZ8FsEP5cn-14j8");
+	$tg = new WA\Bots\Telegram('botkey');
 
-	$mySql = mysqli_connect('127.0.0.1', 'admin_notifi','UBk4O7bZVs', 'admin_notifi_db1');
+	$mySql = mysqli_connect('127.0.0.1', 'U','P', 'DB');
 	q("SET NAMES utf8");
 
 	switch ($_SERVER['REQUEST_URI']) {
