@@ -9,10 +9,13 @@
 
 	require("classes/functions.php");
 	require("classes/wa.telegram.php");
-	use WA\Bots;
-	$tg = new WA\Bots\Telegram('botkey');
 
-	$mySql = mysqli_connect('127.0.0.1', 'U','P', 'DB');
+	$settings = require('auth.php');
+
+	use WA\Bots;
+	$tg = new WA\Bots\Telegram($settings['bot']);
+
+	$mySql = mysqli_connect('127.0.0.1', $settings['u'],$settings['p'], $settings['db']);
 	q("SET NAMES utf8");
 
 	switch ($_SERVER['REQUEST_URI']) {
