@@ -1,10 +1,9 @@
 <?php
 	if (str_replace($_SERVER['DOCUMENT_ROOT'], '', __FILE__) == $_SERVER['SCRIPT_NAME']) exit;
-	// Test Key :: mgq8awgnsek7qmvowr2glns5cvtswtb8
 
 	/**
 	 * Docs: https://tlgrm.ru/docs/bots/api
-	 * WebHook :: https://api.telegram.org/bot1761944399:AAEfjBJtOezl18I9tHs6FZ8FsEP5cn-14j8/setWebhook?url=https://notification.wacdis.com/@telegram
+	 * WebHook :: https://api.telegram.org/bot{{KEY}}/setWebhook?url={{URL}}
 	 * Message Formatting :: https://core.telegram.org/api/entities | https://core.telegram.org/type/MessageEntity
 	 */
 
