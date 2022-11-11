@@ -2,7 +2,7 @@ name: SFTP Deploy
 on: push
 jobs:
   sftp-deploy:
-    # if: ${{ false }} # comment to start usage
+    if: ${{ false }} # comment to start usage
     name: SFTP Deploy
     runs-on: ubuntu-latest
     steps:
